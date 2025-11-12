@@ -1,0 +1,15 @@
+jishaku
+discord==2.3.2
+asyncio
+pymongo==4.6.0
+aiosqlite==0.21.0
+quickchart-io
+discord_webhook
+psutil
+colorgram.py
+motor
+regex
+discord-py-paginator
+Pillow
+colorama
+requests

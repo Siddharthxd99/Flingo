@@ -1,0 +1,7 @@
+token = ""
+mongo_db_url = ""
+guild_join = ""
+guild_leave = ""
+error_url = ""
+commandlog_URL = ""
+np_hook = ""
