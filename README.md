@@ -64,32 +64,23 @@ cd flingo
 3. **Install the dependencies:**
 
 ```bash
-conda env create -f conda.yml
+pip install -r r.txt
 ```
 
 ### Usage
 
 Run the project with:
 
-Using **conda:**
+Using **python:**
 
 ```bash
-conda activate {venv}
-python {entrypoint}
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 ```
-
-### Testing
-
-Flingo uses the **{test_framework}** test framework. Run the test suite with:
-
-Using **conda:**
-
+Run:
 ```bash
-conda activate {venv}
-pytest
+python main.py
 ```
-
----
 
 ## License
 
